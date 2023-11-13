@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">Feed Reddit</string>
+    <string name="TECH_CHALLENGE_TITLE">Tech Challenge!</string>
+    <string name="TECH_CHALLENGE_SUBTITLE">Made by Sarah Silveira</string>
+    <string name="REQUEST_SUBREDDIT_TITLE">
+        Please, type the subredit you are looking for! \n
+        No need to put the r/ \n
+        We do that for you!
+    </string>
+    <string name="EDIT_TEXT_HINT">Subreddit name</string>
+    <string name="EDIT_TEXT_ERROR">Please, provide a valid subreddit name</string>
+    <string name="SUBMIT_BUTTON_TEXT">Get my subreddits!</string>
+    <string name="title_activity_tela_feed">TelaFeed</string>
+
+</resources>
