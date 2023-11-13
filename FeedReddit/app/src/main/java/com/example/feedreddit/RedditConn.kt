@@ -15,10 +15,10 @@ class RedditConn {
     private val AUTHORIZATION_URL = "https://www.reddit.com/api/v1/access_token"
     private val AUTHORIZATION_GRANT_TYPE = "password"
     private val AUTHORIZATION_USER_AGENT = "PostmanRuntime/7.35.0"
-    private val AUTHORIZATION_USER = "b6B8CKVt7K_l2uKSiGxBOg"
-    private val AUTHORIZATION_PASSWORD = "HH7feaFcmBSYhgkAUShA8NXLqAfRKA"
-    private val AUTHORIZATION_REDDIT_USER = "small_kitty_loaf"
-    private val AUTHORIZATION_REDDIT_PASSWORD = "rks14142"
+    private val AUTHORIZATION_USER = ""
+    private val AUTHORIZATION_PASSWORD = ""
+    private val AUTHORIZATION_REDDIT_USER = ""
+    private val AUTHORIZATION_REDDIT_PASSWORD = ""
     private var ACCESS_TOKEN = ""
 
     // SUBREDDIT SEARCH
